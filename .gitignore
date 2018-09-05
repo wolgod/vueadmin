@@ -1,5 +1,19 @@
+#nodemodule依赖文件
+/node_modules
+
+#构建生成的文件
+/dist
+
+#工程生成的文件
+/.idea
+
+#MAC电脑自动生成的DS_Store文件
 .DS_Store
-node_modules/
+
+#备份文件
+.bak
+
+.vscode
+
+#npm debug文件
 npm-debug.log
-.editorconfig
-dist/
